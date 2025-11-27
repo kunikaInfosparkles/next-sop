@@ -1,0 +1,3 @@
+const ApiEndPoints = {
+    getProducts:'products',
+}
